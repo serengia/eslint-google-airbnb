@@ -70,8 +70,9 @@ CD into backend folder and Install Packages as guided
 
 ## Sample .eslintrc.json file rules
 
+_Extend/modify the rules to fit your project needs_
+
 ```json
-// Extend/modify the rules to fit your project needs
 {
   "env": {
     "browser": true,
@@ -114,10 +115,9 @@ CD into frontend folder and Install Packages as guided
 
 ## Sample .eslintrc.json file rules
 
-Extend the rules to fit your project needs
+_Extend/modify the rules to fit your project needs_
 
 ```json
-// Extend/modify the rules to fit your project needs
 {
   "root": true,
   "env": {
