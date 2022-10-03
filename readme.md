@@ -4,8 +4,8 @@ In this configuration, I went through various configuration options. [Please fol
 
 ## Configuration options and Plugins used
 
-- **npm eslint** => https://eslint.org/
-- **npm @eslint/config --init** => https://eslint.org/
+- **npm i eslint** => https://eslint.org/
+- **npm i @eslint/config --init** => https://eslint.org/
 
 ---
 
